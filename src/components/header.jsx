@@ -22,7 +22,7 @@ const Header = () => {
 						{menulist.map((item, index) => (
 							<a href="#">
 								<li key={index}>{item}</li>
-								<span></span>
+								<div></div>
 							</a>
 						))}
 					</ul>
