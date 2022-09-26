@@ -6,6 +6,7 @@ import Vision from "./components/vision";
 // Styles
 import "./assets/scss/main.scss"
 import Mission from "./components/mission";
+import Responsibility from "./components/responsibility";
 
 
 const App = () => {
@@ -15,6 +16,7 @@ const App = () => {
       <About />
       <Vision />
       <Mission />
+      <Responsibility />
       <Footer />
     </div>
   );
