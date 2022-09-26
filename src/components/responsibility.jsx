@@ -4,7 +4,7 @@ const Responsibility = () => {
 	return (
 		<>
 			<div className="responsibility">
-				<h1 className="missionTitle">Mission</h1>
+				<h1 className="missionTitle">Corporate Social Responsibility</h1>
 				<img src={logoDivider} alt="" className="logoDivider" />
 				<div className="container">
 					<div className="infocardContainer">

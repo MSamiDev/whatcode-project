@@ -20,6 +20,14 @@
     .logoDivider {
         margin: 20px;
     }
+    .happyFamily{
+        height: 215px;
+        width: 100vw;
+        background-image: url("../../images/pexels-migs-reyes-4205505.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
     .infoContainer {
         display: flex;
         flex-direction: column;
@@ -81,7 +89,7 @@
             }
         }
         .blackDivider {
-            width: 1440px;
+            width: 100vw;
             height: 153.33px;
             background: rgba(0, 0, 0, 0.8);
             margin: 40px;

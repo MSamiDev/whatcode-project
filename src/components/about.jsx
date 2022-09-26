@@ -1,6 +1,6 @@
 import logoDivider from "../assets/images/Logodivider.png";
 import long_logoDivider from "../assets/images/Long_Logodivider.png";
-import happyfamily from "../assets/images/happy-parents-laughing-together-with-daughter.png";
+import happyfamily from "../assets/images/pexels-migs-reyes-4205505.jpg";
 
 //miniLogo import
 import miniLogo1 from "../assets/images/miniLogo/timer_FILL0_wght400_GRAD0_opsz48 1.png";
@@ -14,7 +14,8 @@ const About = () => {
 			<div className="about">
 				<h1>About Us</h1>
 				<img src={logoDivider} alt="" className="logoDivider" />
-				<img src={happyfamily} alt="" />
+				<div className="happyFamily"></div>
+				{/* <img src={happyfamily} alt="" className="happyFamily"/> */}
 				<div className="infoContainer">
 					<p className="firstPara">
 						We endeavour to build homes which make it's residents happy
