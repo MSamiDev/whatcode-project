@@ -1,0 +1,41 @@
+@import "../variables/font";
+
+.vision {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 70px 0px;
+    // gap: 20px;
+    // height: 329px;
+    background: url('../../images/samuel-scalzo-xyuYk9oLA8I-unsplash.jpg');
+    background-size: cover;
+    div {
+        background: rgba(0, 0, 0, 0.8);
+        h1 {
+            font-family: "Cinzel";
+            font-style: normal;
+            font-weight: 400;
+            font-size: 32px;
+            line-height: 150%;
+            text-align: center;
+            letter-spacing: 0.1em;
+            color: #fafafa;
+            margin-bottom: 40px;
+        }
+        p {
+            font-family: "Roboto Flex";
+            font-style: italic;
+            font-weight: 1000;
+            font-size: 20px;
+            line-height: 150%;
+            text-align: center;
+            letter-spacing: 0.03em;
+            color: #fafafa;
+            font-stretch: 132;
+            margin: 30px 200px;
+            font-variation-settings: "GRAD" 0, "slnt" -5, "XTRA" 468, "XOPQ" 96, "YOPQ" 79, "YTLC" 514, "YTUC" 712,
+                "YTAS" 750, "YTDE" -203, "YTFI" 738;
+        }
+    }
+}
