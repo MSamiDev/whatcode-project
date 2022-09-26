@@ -3,10 +3,11 @@ import Header from "./components/header";
 import Footer from "./components/footer";
 import About from "./components/about";
 import Vision from "./components/vision";
+import Responsibility from "./components/responsibility";
 // Styles
 import "./assets/scss/main.scss"
 import Mission from "./components/mission";
-import Responsibility from "./components/responsibility";
+import FounderMessage from "./components/founderMessage";
 
 
 const App = () => {
@@ -17,6 +18,7 @@ const App = () => {
       <Vision />
       <Mission />
       <Responsibility />
+      <FounderMessage />
       <Footer />
     </div>
   );

@@ -28,11 +28,11 @@ const About = () => {
 							<div className="card1 cards">
 								<img src={miniLogo1} alt="" />
 								<p className="cardsPara">
-									Our track record has been impeccable with{" "}
+									Our track record has been impeccable with
 									<strong>project completion on time</strong> and have
 									surpassed expectations many a time, society members
 									have positively received our redevelopment plans and
-									encourage our{" "}
+									encourage our
 									<strong>modern and urbane designs</strong> to their
 									neighbours.
 								</p>
