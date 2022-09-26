@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/whatcode-project/static/css/main.de749eff.css",
+    "main.js": "/whatcode-project/static/js/main.bb3b6f82.js",
+    "static/js/787.571e9276.chunk.js": "/whatcode-project/static/js/787.571e9276.chunk.js",
+    "static/media/pexels-migs-reyes-4205505.jpg": "/whatcode-project/static/media/pexels-migs-reyes-4205505.ea2a2a7bfa24c685ea63.jpg",
+    "static/media/pexels-laura-tancredi-7078717.jpg": "/whatcode-project/static/media/pexels-laura-tancredi-7078717.a5e7bf65542ce1662baf.jpg",
+    "static/media/samuel-scalzo-xyuYk9oLA8I-unsplash.jpg": "/whatcode-project/static/media/samuel-scalzo-xyuYk9oLA8I-unsplash.ff6d3a7c33456c90aabf.jpg",
+    "static/media/sean-pollock-PhYq704ffdA-unsplash 1-2.png": "/whatcode-project/static/media/sean-pollock-PhYq704ffdA-unsplash 1-2.fa9c849574cb0e5c8a34.png",
+    "static/media/image 5.png": "/whatcode-project/static/media/image 5.5dd149538dcc8eb73c7b.png",
+    "static/media/image 3.png": "/whatcode-project/static/media/image 3.c2f29dfa1816b9770866.png",
+    "static/media/sean-pollock-PhYq704ffdA-unsplash 1.png": "/whatcode-project/static/media/sean-pollock-PhYq704ffdA-unsplash 1.0aa1e489c453ee2dbcf0.png",
+    "static/media/image 9.png": "/whatcode-project/static/media/image 9.4c3ec8e2c1e8cd17e99e.png",
+    "static/media/image 8.png": "/whatcode-project/static/media/image 8.062e7203e46960e7103d.png",
+    "static/media/Long_Logodivider.png": "/whatcode-project/static/media/Long_Logodivider.dcceba30394f528cb927.png",
+    "index.html": "/whatcode-project/index.html",
+    "main.de749eff.css.map": "/whatcode-project/static/css/main.de749eff.css.map",
+    "main.bb3b6f82.js.map": "/whatcode-project/static/js/main.bb3b6f82.js.map",
+    "787.571e9276.chunk.js.map": "/whatcode-project/static/js/787.571e9276.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de749eff.css",
+    "static/js/main.bb3b6f82.js"
+  ]
+}
